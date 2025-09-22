@@ -1,0 +1,9 @@
+🔍 How it works:
+
+Prompts the user for a filename.
+
+Handles errors if the file doesn’t exist or can’t be read.
+
+Reads the file and modifies its content (here we make it uppercase).
+
+Saves the modified content into a new file prefixed with "modified_".
